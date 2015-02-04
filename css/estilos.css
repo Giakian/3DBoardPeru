@@ -47,7 +47,7 @@
 }
 body
 {
-	background: #f7f7f7 url('img/bg.jpg') repeat-x;
+	background: #f7f7f7 url('../img/bg.jpg') repeat-x;
 	font-size: 16px;
 }
 header
