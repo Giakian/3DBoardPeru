@@ -15,7 +15,7 @@
 				<label>*Nombre:</label>
 				<input type='text' id='nombre' name="nombre" class="campo" placeholder='Escribe aqui tu Nombre' required />
 				<label>*E-mail:</label>
-				<input type='text' id='asunto' name="asunto" class="campo" required/>
+				<input type='email' id='asunto' name="asunto" class="campo" required/>
 				<label>*Asunto:</label>
 				<textarea name="asunto" id="" name="email" cols="30" rows="10" placeholder='Escriba aqui su e-mail' required></textarea>
 				<input type="submit" id="btnenviar" value="Enviar Datos" class="boton" />
