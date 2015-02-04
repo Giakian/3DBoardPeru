@@ -5,8 +5,8 @@
 	<title>3D Board Perú - Wallpapers para Paredes</title>
 	<meta name="viewport" content="width=device-width, minimun-scale=1, maximum-scale=1" />
 	<meta name="description" content="Página especializada en la venta de articulos para el decorado del hogar u oficina" />
-	<link rel="stylesheet" href="normalize.css" />
-	<link rel="stylesheet" href="estilos.css" />
+	<link rel="stylesheet" href="css/normalize.css" />
+	<link rel="stylesheet" href="css/estilos.css" />
 	<link rel="icon" href="img/favicon.png" type="image/png" />
 </head>
 <body>
