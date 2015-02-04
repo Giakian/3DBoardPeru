@@ -1,38 +1,4 @@
-<!DOCTYPE html>
-<html leng="es">
-<head>
-	<meta charset="utf-8"/>
-	<title>Contacto - 3D Board Perú</title>
-	<meta name="viewport" content="width=device-width, minimun-scale=1, maximum-scale=1" />
-	<meta name="description" content="Contacto 3D Board Perú, para un servicio inmediato." />
-	<link rel="stylesheet" href="normalize.css" />
-	<link rel="stylesheet" href="estilos.css" />
-	<link rel="icon" href="img/favicon.png" type="image/png" />
-</head>
-<body>
-	<div class="wrap">
-		<header>
-		<figure class="logo">
-			<img src="img/logo2.jpg" />
-		</figure>
-		<aside class="redes">
-			<ul>
-				<li><a href="https://www.facebook.com/3dboardperu" class="face-mini icon-facebook" title="Facebook" target="_blank"></a></li><!--
-				--><li><a href="#" class="twitter-mini icon-twitter"></a></li><!--	
-				--><li><a href="http://instagram.com/3dboard" class="instagram-mini icon-instagram" title="Instagram" target="_blank"></a></li><!--
-				--><li><a href="https://www.youtube.com/channel/UCPzHWUpuI8B0agHNDwN1KEA/feed" class="youtube-mini icon-youtube2" title="Youtube" target="_blank"></a></li>
-			</ul>
-		</aside>
-		<nav class="menu_principal">
-			<ul>
-				<li><a href="index.html">Inicio</a></li>
-				<li><a href="#">Galeria</a></li>
-				<!--<li><a href="#">Promociones</a></li>-->
-				<li><a href="instalacion.html">Instalación</a></li>
-				<li><a href="contacto.html">Contacto</a></li>
-			</ul>
-		</nav>
-	</header>
+<?php include('includes/header.php'); ?>
 	<section>
 		<div class="novedades">Contacto</div>
 		<div class="contact_contenido">
@@ -58,27 +24,4 @@
 			</form>
 		</article>
 	</section>
-	<footer>
-		<div class="datos">
-			<p><strong>Atencion al cliente</strong></p>
-			<p>Dirección: Exprom E.I.R.L- Calle Juan Soto Bermeo Nº 406. Local 19. Urb. El Totoral Surco, Lima 33<br /><br />
-			Telf: (511) 557 8371Cel (RPC): (51) 997520684<br /><br />
-			Email: VENTAS@EXPROMPERU.COM</p>
-		</div>
-		<aside class="redes_extras">
-			<ul>
-				<li><a href="https://www.facebook.com/3dboardperu" title="Facebook" target="_blank" class="icon-facebook"></a></li><!--
-				--><li><a href="#" class="icon-twitter"></a></li><!--
-				--><li><a href="http://instagram.com/3dboard" title="Instagram" target="_blank" class="icon-instagram"></a></li><!--
-				--><li><a href="https://www.youtube.com/channel/UCPzHWUpuI8B0agHNDwN1KEA/feed" title="Youtube" target="_blank" class="icon-youtube2"></a></li>
-			</ul>
-		</aside>
-		
-		<!--<figure class="logo_agua">
-			<img src="img/marca.png" />
-		</figure>-->
-	</footer>
-	<p class="derechos"> Copyright 3D Board Perú 2015 - Todos los derechos Reservados</p>
-	</div>
-</body>
-</html>
+<?php include('includes/footer.php'); ?>	
