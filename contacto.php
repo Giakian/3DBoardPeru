@@ -22,4 +22,4 @@
 			</form>
 		</article>
 	</section>
-<?php include('includes/footer.php'); ?>	s
+<?php include('includes/footer.php'); ?>
