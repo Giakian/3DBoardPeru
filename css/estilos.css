@@ -216,6 +216,7 @@ section div
 {
 	border-top: #2F2F2F solid 2px;
 	font-size: 2em;
+	margin-top: 10px;
 }
 
 .redes_extras
@@ -243,6 +244,7 @@ section div
 }
 .slider_container
 {
+	margin-bottom: 15px;
 	display: none;
 }
 .sub_contenido

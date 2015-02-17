@@ -23,5 +23,8 @@
 	<script src="http://code.jquery.com/jquery-1.11.2.min.js"></script>
 	<script type="text/javascript" src="js/main.js"></script>
 	<script type="text/javascript" src="js/galeria.js"></script>
+
+	<script src="2/ninjaVideoPlugin.js" type="text/javascript"></script>
+    <script src="2/ninja-slider.js" type="text/javascript"></script>
 </body>
 </html>
