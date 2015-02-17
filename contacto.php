@@ -13,11 +13,11 @@
 		<article class="form_cont">
 			<form class="miformulario" action="enviar.php" method="POST">
 				<label>*Nombre:</label>
-				<input type='text' name="nombre" class="campo" placeholder='Escribe aqui tu Nombre' required />
+				<input type='text' name="nombre" onkeypress="SoloTexto()" class="campo" placeholder='Escribe aqui tu Nombre' maxlength="40" required />
 				<label>*E-mail:</label>
 				<input type='email' name="email" class="campo" required/>
 				<label>*Mensaje:</label>
-				<textarea id="" name="mensaje" cols="30" rows="10" placeholder='Escriba aqui su e-mail' required></textarea>
+				<textarea id="" name="mensaje" cols="30" rows="10" placeholder='Escriba aqui su e-mail' maxlength="400" required></textarea>
 				<input type="submit" id="btnenviar" value="Enviar Datos" class="boton" />
 			</form>
 		</article>
