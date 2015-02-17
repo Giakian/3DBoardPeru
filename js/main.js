@@ -1,12 +1,9 @@
-var indicador = 0;
-
-
-
 function SoloTexto() {
 	if ((event.keyCode != 32) && (event.keyCode < 65) || (event.keyCode > 90) && (event.keyCode < 97) || (event.keyCode > 122)){
 	 	event.returnValue = false;	
 	}
 }
+var indicador = 0;
 
 $(document).ready(function(){
 	$('.left').on('click', function(e){
