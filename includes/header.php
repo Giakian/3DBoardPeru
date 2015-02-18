@@ -13,7 +13,9 @@
 	<link rel="stylesheet" href="css/estilos.css" />
 	<link rel="stylesheet" href="css/mediaqueries.css" />
 
-	
+	<!-- Slide -->
+	<link rel="stylesheet" href="css/demo.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" />
 
 	<!-- favicon -->
 	<link rel="icon" href="img/favicon.png" type="image/png" />

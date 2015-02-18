@@ -12,7 +12,24 @@
 				<li class="right icon-circle-right"></li>
 			</nav>
 			-->
-			
+			<!-- Place somewhere in the <body> of your page -->
+		<!-- Place somewhere in the <body> of your page -->
+		<div class="flexslider">
+		  <ul class="slides">
+		    <li>
+		      <img src="img/slide_01.jpg" />
+		    </li>
+		    <li>
+		      <img src="img/slide_02.jpg" />
+		    </li>
+		    <li>
+		      <img src="img/slide_03.jpg" />
+		    </li>
+		    <li>
+		      <img src="img/slide_04.jpg" />
+		    </li>
+		  </ul>
+		</div>
 		</article>
 		<div class="novedades">Novedades</div>
 		<article class="contenido">
