@@ -13,7 +13,7 @@
 	<link rel="stylesheet" href="css/estilos.css" />
 	<link rel="stylesheet" href="css/mediaqueries.css" />
 
-	<link href="2/ninja-slider.css" rel="stylesheet" type="text/css" />
+	
 
 	<!-- favicon -->
 	<link rel="icon" href="img/favicon.png" type="image/png" />
