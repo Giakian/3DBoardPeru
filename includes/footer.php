@@ -24,7 +24,11 @@
 	<script type="text/javascript" src="js/main.js"></script>
 	<script type="text/javascript" src="js/galeria.js"></script>
 
-	<script src="2/ninjaVideoPlugin.js" type="text/javascript"></script>
-    <script src="2/ninja-slider.js" type="text/javascript"></script>
+	<!-- jQuery -->
+ <!-- <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script> -->
+  <script>window.jQuery || document.write('<script src="js/libs/jquery-1.7.min.js">\x3C/script>')</script>
+
+  <!-- FlexSlider -->
+  <script defer src="js/jquery.flexslider.js"></script>
 </body>
 </html>
