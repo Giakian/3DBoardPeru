@@ -170,22 +170,17 @@ section div
 }
 .logo
 {
-	float: left;
-	margin: 0 0 0 5%;
+	margin: 0 0 0 0;
 	padding: 0;
-	
+	text-align: center;
 }
 .logo img
 {
 	width: 150px;
 }
-.menu_principal
-{
-	margin-top: 3em;
-}
 .menu_principal ul
 {
-	margin: 0 0 .5em 0;
+	margin: 0 0 0 0;
 	padding: 0;
 	text-align: center;	
 }

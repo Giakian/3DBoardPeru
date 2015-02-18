@@ -2,6 +2,17 @@
 
 
 @media screen and (min-width: 500px){
+	.logo
+	{
+		float: left;
+		left: 5%;
+		padding: 0;
+		position: relative;
+	}
+	.logo img
+	{
+		width: 150px;
+	}
 	.googmap iframe
 	{
 		width: 400px;
@@ -14,10 +25,19 @@
 	}
 	.menu_principal
 	{
-		margin-top: .5em;
+		margin-top: 1.5em;
+	}
+}
+@media screen and (min-width: 600px){
+	.logo
+	{	
+		margin: 0 0 0 0;
+		position: relative;
+		left: 10%;
 	}
 }
 @media screen and (min-width: 768px){
+
 	footer
 	{
 		position: relative;
@@ -45,7 +65,7 @@
 	{	
 		margin: 0 0 0 0;
 		position: relative;
-		left: 10%;
+		left: 15%;
 	}
 	.novedades
 	{
@@ -161,6 +181,12 @@
 		text-align: left;
 		width: 95%;
 	}
+	.logo
+	{	
+		margin: 0 0 0 0;
+		position: relative;
+		left: 20%;
+	}
 	.googmap
 	{
 		float: left;
@@ -266,7 +292,7 @@
 	{	
 		margin: 0 0 0 0;
 		position: relative;
-		left: 15%;
+		left: 25%;
 	}
 	
 	.wrap
