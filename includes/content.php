@@ -31,7 +31,11 @@
 		  </ul>
 		</div>
 		</article>
-		<div class="novedades">Novedades</div>
+		<div class="novedades">Bienvenidos a 3D Board Perú</div>
+		<p class="introduccion">Bienvenidos a una nueva gama para decoración de paredes interiores. 3D Board Perú es un nuevo producto artístico de alta calidad, duradero y 
+		respetuoso del medio ambiente, llevando el diseño de interiores a un nuevo nivel. Con un concepto de diseño originario de 3D Board de los Estados Unidos, marca el 
+		inicio de una nueva tendencia y estilo. Las paredes ya no tienes que limitarse a un simple toque de color. 3D Board Perú ofrece una manera rentable para crear el 
+		ambiente perfecto en cualquier habitacion de su hogar o negocio.</p>
 		<article class="contenido">
 			<h1>Porcelanatos de madera envejecidos</h1>		
 			<figure class="img_novedades">
